@@ -1,4 +1,4 @@
-# NewsShow
+# NewsShow-Frontend
 
 ## 前端技术栈
 
