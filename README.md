@@ -1,14 +1,20 @@
-# big-event
+# NewsShow
 
-This template should help get you started developing with Vue 3 in Vite.
+## 前端技术栈
 
-## Recommended IDE Setup
+ Vue 3 ， Axios ，Element Plus ， Pinia等
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 项目展示
 
-## Customize configuration
+![](https://s21.ax1x.com/2024/05/11/pkZHz6S.png)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![](https://s21.ax1x.com/2024/05/11/pkZHLFI.png)
+![](https://s21.ax1x.com/2024/05/11/pkZH7eH.png)
+![](https://s21.ax1x.com/2024/05/11/pkZHoOe.png)
+![](https://s21.ax1x.com/2024/05/11/pkZHbTA.png)
+![](https://s21.ax1x.com/2024/05/11/pkZHHwd.png)
+![](https://s21.ax1x.com/2024/05/11/pkZHOYt.png)
+![](https://s21.ax1x.com/2024/05/11/pkZHXfP.png)
 
 ## Project Setup
 
@@ -27,4 +33,3 @@ npm run dev
 ```sh
 npm run build
 ```
-# NewsShow
